@@ -1,1 +1,5 @@
+com\telusko\JobApp\service\JobService.class
+com\telusko\JobApp\model\JobPost.class
 com\telusko\JobApp\JobAppApplication.class
+com\telusko\JobApp\repo\JobRepo.class
+com\telusko\JobApp\controller\JobController.class
